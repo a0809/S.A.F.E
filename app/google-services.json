@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635323280108",
+    "project_id": "safe-825dc",
+    "storage_bucket": "safe-825dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635323280108:android:b0228697ac92de829913c9",
+        "android_client_info": {
+          "package_name": "com.thesis.safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635323280108-kngss62iclmmi78kc0mlpfnsr6mfgvjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBONOVytXVsSNkl_UudcMJ11tQCl2RC8bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635323280108-kngss62iclmmi78kc0mlpfnsr6mfgvjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
